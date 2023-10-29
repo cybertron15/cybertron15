@@ -66,13 +66,13 @@
 
   ![](https://github-profile-trophy.vercel.app/?username=cybertron15&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 </div>
-
+<hr/>
 <div style="display: flex; align-items: center" align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="200"/>
 </div>
-
+<hr/>
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=cybertron15&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <hr/>
