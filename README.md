@@ -64,7 +64,7 @@
 
 <div style="display: flex; align-items: center" align="center>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="80px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="80px"/>
 </div>
 
