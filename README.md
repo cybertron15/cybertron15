@@ -1,4 +1,3 @@
-
 ![image](https://github.com/cybertron15/cybertron15/assets/48357640/3c642e9e-10e7-4b0c-a18a-61221263b2e5)
 <div align="center">
 "In a lifelong relationship with my keyboard, I'm coding my way through a digital maze, one bug at a time, byte by byte. Together, we're writing my digital story."
@@ -68,8 +67,8 @@
 </div>
 <div style="display: flex; align-items: center" align="center>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="160"/>
 </div>
 
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=cybertron15&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
