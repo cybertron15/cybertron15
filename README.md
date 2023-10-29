@@ -61,6 +61,12 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 <hr/>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</div>
+
 <div>
 
   ![](https://github-profile-trophy.vercel.app/?username=cybertron15&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
