@@ -73,27 +73,24 @@
 </div>
 <div style="display: flex; align-items: center" align="center>
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=cybertron15&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img align="center" width="100" src="https://github-readme-stats.vercel.app/api?username=cybertron15&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </div>
 
+
+<img src="https://myreadme.vercel.app/api/embed/cybertron15?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <hr/>
 
-<div align="center"  style="display: flex; align-items: center" >
- <a href="https://www.instagram.com/cybertron_15/" target="_blank">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-   </a>
   <a href="https://www.instagram.com/cybertron_15/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:palashdhavle15@gmail.com" target="_blank" >
+  <a href="palashdhavle15@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://in.linkedin.com/in/palash-dhavle-734aa31a0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  
 </div>
 
