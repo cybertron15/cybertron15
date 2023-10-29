@@ -61,8 +61,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 <hr/>
+<div>
 
-![](https://github-profile-trophy.vercel.app/?username=cybertron15&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=cybertron15&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 <img src="https://myreadme.vercel.app/api/embed/cybertron15?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <hr/>
