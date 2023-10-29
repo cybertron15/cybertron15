@@ -1,3 +1,4 @@
+
 ![image](https://github.com/cybertron15/cybertron15/assets/48357640/3c642e9e-10e7-4b0c-a18a-61221263b2e5)
 <div align="center">
 "In a lifelong relationship with my keyboard, I'm coding my way through a digital maze, one bug at a time, byte by byte. Together, we're writing my digital story."
@@ -61,28 +62,33 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 <hr/>
-
-<div style="display: flex; align-items: center" align="center>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="80px"/>
-</div>
-
 <div>
 
   ![](https://github-profile-trophy.vercel.app/?username=cybertron15&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 </div>
+<div style="display: flex; align-items: center" align="center>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="184"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="184px"/>
+</div>
+<div style="display: flex; align-items: center" align="center>
 
-<img src="https://myreadme.vercel.app/api/embed/cybertron15?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=cybertron15&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+</div>
+
 <hr/>
 
-<div align="center">
+<div align="center"  style="display: flex; align-items: center" >
+ <a href="https://www.instagram.com/cybertron_15/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+   </a>
   <a href="https://www.instagram.com/cybertron_15/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
+  <a style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <a href="palashdhavle15@gmail.com" target="_blank">
+  </a>
+  <a href="mailto:palashdhavle15@gmail.com" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://in.linkedin.com/in/palash-dhavle-734aa31a0" target="_blank">
