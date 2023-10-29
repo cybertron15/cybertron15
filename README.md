@@ -68,8 +68,8 @@
 </div>
 <div style="display: flex; align-items: center" align="center>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="184"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="184px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertron15&theme=tokyonight&hide_border=false" alt="Top Languages" height="180px"/>
 </div>
 <div style="display: flex; align-items: center" align="center>
 
@@ -94,5 +94,6 @@
   <a href="https://in.linkedin.com/in/palash-dhavle-734aa31a0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
+  
 </div>
 
