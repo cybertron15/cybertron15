@@ -78,12 +78,20 @@
 <hr/>
 
 <div align="center">
+    <!--
+  <a href="https://www.instagram.com/cybertron_15/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+     </a>
+  -->
   <a href="https://www.instagram.com/cybertron_15/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
+  <!--
+<a href="https://www.discord.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <a href="palashdhavle15@gmail.com" target="_blank">
+</a>
+-->
+  <a href="mailto:palashdhavle15@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://in.linkedin.com/in/palash-dhavle-734aa31a0" target="_blank">
