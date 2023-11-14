@@ -67,6 +67,10 @@
   ![](https://github-profile-trophy.vercel.app/?username=cybertron15&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 </div>
 <hr/>
+
+[![An image of @cybertron15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cybertron15)](https://holopin.io/@cybertron15)
+
+<hr/>
 <div style="display: flex; align-items: center" align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertron15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="200"/>
