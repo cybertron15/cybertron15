@@ -98,7 +98,7 @@
   <a href="mailto:palashdhavle15@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://in.linkedin.com/in/palash-dhavle-734aa31a0" target="_blank">
+  <a href=" https://www.linkedin.com/in/palash-dhavle-734aa31a0/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
    <a href="https://twitter.com/DhavlePalash" target="blank" >
