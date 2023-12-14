@@ -1,4 +1,3 @@
-
 ![image](https://github.com/cybertron15/cybertron15/assets/48357640/3c642e9e-10e7-4b0c-a18a-61221263b2e5)
 <div align="center">
 "In a lifelong relationship with my keyboard, I'm coding my way through a digital maze, one bug at a time, byte by byte. Together, we're writing my digital story."
